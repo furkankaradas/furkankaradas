@@ -1,11 +1,21 @@
 ## Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=furkankaradas&show_icons=true&theme=synthwave" alt="Furkan's github stats" /></a>
-I am a junior software engineer and data scientist from Turkey. 
+My name is Furkan Karadas. I'm living Turkey.
 
-</br>
-</br>
-</br>
+💼 Job
+---
+I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com.tr/en)
+
+🔭 I’m currently working on
+---
+- Deep Learning
+- Machine Learning
+
+🧠 Using
+---
+<img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" />
+
 
 📫 How to reach me:
 ---
@@ -18,12 +28,10 @@ I am a junior software engineer and data scientist from Turkey.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
