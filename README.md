@@ -16,7 +16,10 @@ I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com
 
 🧠 Using
 ---
-<img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/master/topics/ubuntu/ubuntu.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" height="32" /> <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg?raw=true" height="32" />  
+
+
+<img src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png" height="32" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png?raw=true" height="32" /> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="32" /> 
 
 
 📫 How to reach me:
