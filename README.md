@@ -3,9 +3,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=furkankaradas&show_icons=true&theme=synthwave" alt="Furkan's github stats" /></a>
 My name is Furkan Karadas. I'm living Turkey.
 
+</br></br></br></br></br>
+
 💼 Job
 ---
-I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com.tr/en)
+I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com.tr/en).
 
 🔭 I’m currently working on
 ---
@@ -21,7 +23,7 @@ I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com
 ---
 <a href="mailto:karadasfurkan@yandex.com?"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=for-the-badge&logo=yandex&logoColor=white"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/furkankaradas-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)]()
+[![Linkedin Badge](https://img.shields.io/badge/furkankaradas-linkedin-blue?style=for-the-badge&logo=linkedin)]()
 
 <!--
 **furkankaradas/furkankaradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
