@@ -23,7 +23,7 @@ I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com
 ---
 <a href="mailto:karadasfurkan@yandex.com?"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=for-the-badge&logo=yandex&logoColor=white"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]()
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkankaradas/)
 
 <!--
 **furkankaradas/furkankaradas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
