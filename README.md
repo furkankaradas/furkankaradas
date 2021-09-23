@@ -7,7 +7,7 @@ My name is Furkan Karadas. I'm living Turkey.
 
 💼 Job
 ---
-I'm working as a Junior Software Engineer in [HAVELSAN](https://www.havelsan.com.tr/en).
+Software Engineer at [ONYX Labs](https://www.linkedin.com/company/onyxlabs/).
 
 🔭 I’m currently working on
 ---
