@@ -17,7 +17,7 @@ Software Engineer at [ONYX Labs](https://www.linkedin.com/company/onyxlabs/).
 
 📫 How to reach me:
 ---
-<a href="mailto:karadasfurkan@yandex.com?"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=for-the-badge&logo=yandex&logoColor=white"/></a>
+<a href="mailto:furkankaradas3@gmail.com?"><img src="https://img.shields.io/badge/mail-%23DD0031.svg?&style=for-the-badge&logo=yandex&logoColor=white"/></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkankaradas/)
 
