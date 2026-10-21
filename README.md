@@ -7,12 +7,13 @@ My name is Furkan Karadas. I'm living Turkey.
 
 💼 Job
 ---
-Software Engineer at [ONYX Labs](https://www.linkedin.com/company/onyxlabs/).
+Software Engineer at BITES.
 
 🔭 I’m currently working on
 ---
 - Deep Learning
 - Machine Learning
+- Full Stack Engineer
 
 
 📫 How to reach me:
