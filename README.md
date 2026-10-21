@@ -11,9 +11,9 @@ Software Engineer at BITES.
 
 🔭 I’m currently working on
 ---
+- Full Stack Engineer
 - Deep Learning
 - Machine Learning
-- Full Stack Engineer
 
 
 📫 How to reach me:
